@@ -1,3 +1,4 @@
 first line
 line to be rebased
 is it?
+git is nice
