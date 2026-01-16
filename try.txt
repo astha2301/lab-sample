@@ -1,5 +1,1 @@
-first line
-line to be rebased
-is it?
-git is nice
-fb1
+this is the first line in fb
